@@ -2,19 +2,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=440&lines=Hi%2C+I'm+[Your+Name]+👋;Full-Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm IJAK BABU MANDA👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile/">
+  <a href="https://www.linkedin.com/in/manda-ijak-babu-5a14592a4">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/Raj-5112">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:ijak7373@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://yourportfolio.com">
+  <a href="https://raj-5112/Raj-5112.github.io">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
@@ -22,7 +22,7 @@
 ---
 
 ### 🚀 About Me
-I am a passionate [your role] focused on building efficient, scalable, and user-friendly digital solutions.  
+I am a passionate FULL STACK DEVELOPER focused on building efficient, scalable, and user-friendly digital solutions.  
 I enjoy solving real-world problems through clean code, modern technologies, and practical product thinking.
 
 My interests include:
@@ -100,7 +100,7 @@ A portfolio or utility project that highlights your skills.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raj-5112&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
